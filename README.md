@@ -1,4 +1,5 @@
-# DARK-MODE
+# DARK-MODE alternância fácil entre modos escuros e claros
+
 Página front-end de teste com dark mode.
 
 Design moderno e elegante, com uma paleta de cores que se adapta ao modo escuro;
