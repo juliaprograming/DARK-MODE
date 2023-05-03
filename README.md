@@ -1,4 +1,4 @@
-# DARK-MODE alternância fácil entre modos escuros e claros
+# DARK-MODE (Alternância fácil entre modos escuros e claros)
 
 Página front-end de teste com dark mode.
 
